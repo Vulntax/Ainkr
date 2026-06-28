@@ -1,2 +1,1 @@
-# Ainkr
-Created via RepoFlow
+# Tenkgpt
